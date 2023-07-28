@@ -1,4 +1,14 @@
+DOI
 ISBN
 
+Abhishek
 Ahrens
+Beeson
+Damini
+Dhar
 Matuschak
+Penrose
+
+Coq
+Crossref
+arXiv
