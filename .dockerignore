@@ -1,0 +1,4 @@
+**/.vale-styles/Microsoft
+**/public
+**/.hugo*
+fly.toml
