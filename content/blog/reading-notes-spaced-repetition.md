@@ -1,4 +1,8 @@
-# Reading, notes, spaced repetition
++++
+date = '2023-07-15T00:00:00+00:00'
+draft = false
+title = 'Reading, notes, spaced repetition'
++++
 
 Over the last year, I've stumbled on a series of texts that
 together changed how I approach learning.
@@ -27,8 +31,8 @@ Over time you turn what you've read into
 a densely connected network of notes that you remember.
 
 [^smart-notes]: How to take smart notes by Sönke Ahrens, ISBN 9781542866507
-[^andy-books]: Andy Matuschak, “Why books don’t work”, https://andymatuschak.org/books, San Francisco (2019).
-[^andy-prompts]: Andy Matuschak, “How to write good prompts: using spaced repetition to create understanding”, https://andymatuschak.org/prompts, San Francisco (2020).
+[^andy-books]: Andy Matuschak, “Why books don’t work”, <https://andymatuschak.org/books>, San Francisco (2019).
+[^andy-prompts]: Andy Matuschak, “How to write good prompts: using spaced repetition to create understanding”, <https://andymatuschak.org/prompts>, San Francisco (2020).
 
 ## What I have learned
 

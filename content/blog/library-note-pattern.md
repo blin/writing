@@ -1,4 +1,8 @@
-# Library Note Pattern
++++
+date = '2025-07-18T15:23:50+00:00'
+draft = false
+title = 'Library Note Pattern'
++++
 
 Every once in a while I need to write a comment in one place
 and then refer to that comment from other places.

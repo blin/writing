@@ -1,4 +1,8 @@
-# Learning geometry through formal proofs
++++
+date = '2023-07-28T00:00:00+00:00'
+draft = false
+title = 'Learning geometry through formal proofs'
++++
 
 Every once in a while I try to understand something in detail,
 and often understanding something in detail
@@ -13,7 +17,7 @@ started in December 2022, is my attempt at understanding
 
 It's 8 months later, I'm not even close, but I haven't given up yet!
 
-[^archimedes-pi]: B., Damini D., and Abhishek Dhar. How Archimedes Showed That π Is Approximately Equal to 22/7. arXiv, 18 Aug. 2020. arXiv.org, https://doi.org/10.48550/arXiv.2008.07995.
+[^archimedes-pi]: B., Damini D., and Abhishek Dhar. How Archimedes Showed That π Is Approximately Equal to 22/7. arXiv, 18 Aug. 2020. arXiv.org, <https://doi.org/10.48550/arXiv.2008.07995>.
 
 ## Suddenly, formal proof of Euclid's elements
 
@@ -59,9 +63,9 @@ I found formal machine-verified proofs of Euclid's Elements
 a breath of fresh air, everything that was needed for the proof was right there!
 I could start at the very bottom of geometry and learn my way up.
 
-[^elements]: first 6 books translated to English can be found at Project Gutenberg - https://www.gutenberg.org/ebooks/21076
+[^elements]: first 6 books translated to English can be found at Project Gutenberg - <https://www.gutenberg.org/ebooks/21076>
 
-[^proof-checking-euclid]: Beeson, Michael, et al. ‘Proof-Checking Euclid’. Annals of Mathematics and Artificial Intelligence, vol. 85, no. 2–4, Apr. 2019, pp. 213–57. DOI.org (Crossref), https://doi.org/10.1007/s10472-018-9606-x.
+[^proof-checking-euclid]: Beeson, Michael, et al. ‘Proof-Checking Euclid’. Annals of Mathematics and Artificial Intelligence, vol. 85, no. 2–4, Apr. 2019, pp. 213–57. DOI.org (Crossref), <https://doi.org/10.1007/s10472-018-9606-x>.
 
 ## GeoCoq
 
@@ -88,16 +92,16 @@ which isn't conductive to learning.
 So I set out to rewrite all the Euclid's Elements book 1 proofs in GeoCoq
 such that I could follow how they unfold.
 
-[^geocoq-repo]: https://github.com/GeoCoq/GeoCoq
+[^geocoq-repo]: <https://github.com/GeoCoq/GeoCoq>
 
-[^proof-checking-php]: http://www.michaelbeeson.com/research/CheckEuclid/index.php
+[^proof-checking-php]: <http://www.michaelbeeson.com/research/CheckEuclid/index.php>
 
 ## Where I am now
 
 I have now translated 33 out of 48 propositions (and their dependencies)
 to something that I consider more readable.
 You can find the results of that work in
-https://github.com/blin/proof-checking-euclid/ .
+<https://github.com/blin/proof-checking-euclid/> .
 
 Why stop at proposition 33?
 There is this passage in chapter 2 of "The Road to Reality" by Roger Penrose:
@@ -123,5 +127,4 @@ up to proposition 33.
 Memory and understanding are intertwined,
 but I will write more about this once I can recall the proof of proposition 33.
 
-
-[^road-to-reality-proof]: https://github.com/blin/proof-checking-euclid/blob/master/lemma_road_to_reality_2_7.v
+[^road-to-reality-proof]: <https://github.com/blin/proof-checking-euclid/blob/master/lemma_road_to_reality_2_7.v>

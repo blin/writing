@@ -1,5 +1,8 @@
-# Transcribing talks
-
++++
+date = '2024-10-18T07:00:00+00:00'
+draft = false
+title = 'Transcribing talks'
++++
 I wanted to get an LLM summary for
 [XOXO Festival. Lisa Hanawalt, BoJack Horseman - XOXO Festival (2015)](https://www.youtube.com/watch?v=f6F_CF7Yvo0)
 which turns out to be a perfect opportunity to test out transcribing audio using
@@ -12,7 +15,7 @@ Here is what I did to get a human readable transcript:
 2. Chunk into 10 minute chunks[^1]
    * `ffmpeg -i talk-audio.mp3  -f segment -segment_time 600 -c copy talk-audio-10m_chunks-%03d.mp3`
 3. Transcribe the audio using Whisper through huggingface UI
-   * Clickity click in https://huggingface.co/openai/whisper-large-v3 ,
+   * Clickity click in <https://huggingface.co/openai/whisper-large-v3> ,
      copy-pasting results into `transcript.txt`.
 4. Chunk the text using Claude 3.5 Sonnet
    * `cat transcript.txt | llm -m claude-3.5-sonnet -s "Split the content of this transcript up into paragraphs with logical breaks. Add newlines between each paragraph." > transcript-chunked.txt`
@@ -31,7 +34,7 @@ I can send a video with "Check out this talk, it is about $themes , I think you 
 ## References
 
 * Turning a Conference Talk into an Annotated Presentation - Jacob Kaplan-Moss.
-  https://jacobian.org/til/talk-to-writeup-workflow/. Accessed 18 Oct. 2024.
+  <https://jacobian.org/til/talk-to-writeup-workflow/>. Accessed 18 Oct. 2024.
 
 ## Tidbits
 
