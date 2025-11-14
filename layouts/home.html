@@ -2,6 +2,11 @@
   {{ .Content }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+    {{ partial "published-date.html" . }}
+
     {{ .Summary }}
+
+    <a href="{{ .RelPermalink }}">Read more...</a>
   {{ end }}
 {{ end }}
