@@ -10,6 +10,8 @@ Originally [published on substack](https://blin.substack.com/p/the-accidental-su
 
 Let's break this down into smaller claims.
 
+<!--more-->
+
 ## Is the USA currently acting as world police?
 
 Zeihan’s claims that as part of the [Bretton Woods Agreements](https://en.wikipedia.org/wiki/Bretton_Woods_system) “The Americans offered to use their navy to protect all maritime trade”. I found no evidence of that being true. The [agreements themselves](https://avalon.law.yale.edu/20th_century/decad047.asp) are “Articles of Agreement of the International Bank for Reconstruction and Development” and “Articles of Agreement of the International Monetary Fund”, unsurprisingly these agreements do not cover maritime trade at all.

@@ -6,12 +6,13 @@ draft: false
 
 Originally [published on substack](https://blin.substack.com/p/notes-on-how-to-take-smart-notes).
 
-
 For a while now I have been trying to write book reviews for all the books I read, that has not been going well(I couldn’t muster the willpower to write them). This time I’m posting my notes on a book as is.
 
 The way I was taking notes changed closer to the end of the book, initially I was writing idea snippets and later I was trying to write developed ideas. Some of the idea snippets I was able to expand into developed ideas, other snippets I dropped, since they either didn’t make sense or I realised I didn’t care to keep them, and the rest I kept as is, they make sense to me (for now), but I don’t care enough to expand them into developed ideas.
 
 What follows are my notes from a note taking program. Text in double square braces(like `[[common knowledge]]`) and text prefixed by a hashtag(like #ontology) link to other notes I have, you don’t get to see them, sorry. Otherwise the format is a nested list, each level of initial indentation followed by a dash represents a new level of nesting, hopefully that’s somewhat readable.
+
+<!--more-->
 
 ## Notes
 
@@ -28,7 +29,7 @@ What follows are my notes from a note taking program. Text in double square brac
   - Unfinished tasks linger in the mind, occupying precious and severely limited mind-space. It is important to either finish tasks or checkpoint them such that you would actually return to complete them. If you checkpoint something but feel like you will not pick the task again, commit to dropping the task.
   - When writing a note, think about contextual retrieval. Will I stumble upon this note when I think about related ideas and concepts?
   - Questions for permanent note writing: why do I care? why is this true?
-    - Compare [[Work Questions]].
+    - Compare `[[Work Questions]]`.
   - Learning is the process of creating meaningful connections. Recalling meaningless data is hard. Recalling a fact is easier if you can recall the cause of the fact (or the consequence, or anything else related to the fact).
   - When writing long-form text it is important to separate wordsmithing from checking that what is written makes sense. Since you just wrote the text, the context is still fresh in you mind, and instead of seeing the text as someone else would see it, you see your own thoughts still embedded in your mind.
     - This idea is also prominent in Stephen King's "On Writing".
@@ -39,7 +40,7 @@ What follows are my notes from a note taking program. Text in double square brac
   - Remembering that arteries have thicker walls than veins is hard by itself. Why would arterial walls be thick or thin? Heart pumps blood through arteries, so arteries must hold pressure. Holding pressure requires thick (or hard) walls.
     - This is a very memorable example, it maps well into common knowledge.
   - Naming, that is, pointing to something, is important for making connections. It is hard to connect two ideas if they are talking about the same concept (or concepts that are close to each other in concept-space) using different words.
-    - Example of same (or close) concepts: [[common knowledge]] and [[common sense]]. #ontology
+    - Example of same (or close) concepts: `[[common knowledge]]` and `[[common sense]]`. #ontology
 - Quotes
   - Introduction
     - Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long- and short-term interests.

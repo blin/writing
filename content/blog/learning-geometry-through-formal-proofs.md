@@ -19,6 +19,8 @@ It's 8 months later, I'm not even close, but I haven't given up yet!
 
 [^archimedes-pi]: B., Damini D., and Abhishek Dhar. How Archimedes Showed That π Is Approximately Equal to 22/7. arXiv, 18 Aug. 2020. arXiv.org, <https://doi.org/10.48550/arXiv.2008.07995>.
 
+<!--more-->
+
 ## Suddenly, formal proof of Euclid's elements
 
 Archimedes' approximation of pi uses perimeter of a regular polygon

@@ -3,12 +3,15 @@ date = '2024-10-18T07:00:00+00:00'
 draft = false
 title = 'Transcribing talks'
 +++
+
 I wanted to get an LLM summary for
 [XOXO Festival. Lisa Hanawalt, BoJack Horseman - XOXO Festival (2015)](https://www.youtube.com/watch?v=f6F_CF7Yvo0)
 which turns out to be a perfect opportunity to test out transcribing audio using
 [Whisper](https://en.wikipedia.org/wiki/Whisper_%28speech_recognition_system%29)!
 
 Here is what I did to get a human readable transcript:
+
+<!--more-->
 
 1. Download the video
    * `yt-dlp --extract-audio --audio-format mp3 'https://www.youtube.com/watch?v=f6F_CF7Yvo0' -o talk-audio.mp3`

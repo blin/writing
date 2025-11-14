@@ -20,10 +20,12 @@ but also suggests that one needs more than to write, one must also remember.
 This text suggests using Spaced Repetition as a learning mechanism:
 you read, you write cards, you memorize cards using Spaced Repetition Software.
 
-"How to write good [Spaced Repetition] prompts" [^andy-prompts]
+"How to write good Spaced Repetition prompts" [^andy-prompts]
 describes the practical aspects of learning using Spaced Repetition.
 "good" Spaced Repetition prompts need to be factored
 into a, surprise-surprise, dense network!
+
+<!--more-->
 
 Taken together: read, write prompts, try to answer prompts, fail,
 write more (smaller, connected) prompts.

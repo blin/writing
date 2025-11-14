@@ -10,6 +10,8 @@ Originally [published on substack](https://blin.substack.com/p/the-tyranny-of-me
 
 I've picked up the tyranny of metrics as a counter-balance to "How to Measure Anything" by Douglas W. Hubbard, a book that has convinced me to join the "measure everything!" club. Tyranny of metrics did not convince me to leave that club.
 
+<!--more-->
+
 The book could have been called "Goodhart's law: examples". For those unfamiliar, [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law):
 
 > Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
