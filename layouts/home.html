@@ -1,12 +1,18 @@
 {{ define "main" }}
   {{ .Content }}
   {{ range site.RegularPages }}
+    <article>
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
 
     {{ partial "published-date.html" . }}
 
-    {{ .Summary }}
+    <div class="summary">
+      {{ .Summary }}
+    </div>
 
-    <a href="{{ .RelPermalink }}">Read more...</a>
+    {{ if .Truncated }}
+      <a href="{{ .RelPermalink }}">Read more ...</a>
+    {{ end }}
+    </article>
   {{ end }}
 {{ end }}
