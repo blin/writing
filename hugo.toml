@@ -1,6 +1,9 @@
 baseURL = 'https://evgenii-petrov.net/'
 languageCode = 'en-US'
-title = 'blin'
+title = 'Blog of Evgenii Petrov'
+
+[params.author]
+name = 'Evgenii Petrov'
 
 [menus]
 [[menus.main]]
@@ -13,5 +16,15 @@ weight = 10
 extended = false
 min = '0.146.0'
 
-[outputFormats.RSS]
-baseName = "feed"
+[mediaTypes]
+  [mediaTypes.'application/atom+xml']
+    suffixes = ['xml']
+
+[outputFormats]
+  [outputFormats.atom]
+    mediaType = 'application/atom+xml'
+    baseName = 'feed'
+    isPlainText = false
+
+[outputs]
+  home = ['html', 'atom']
