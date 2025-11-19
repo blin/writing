@@ -9,4 +9,4 @@ RUN hugo build
 
 EXPOSE 8080
 
-CMD ["caddy", "file-server", "--root", "/src/public", "--listen", ":8080"]
+CMD ["caddy", "file-server", "--root", "/src/public", "--listen", ":8080", "--access-log"]
