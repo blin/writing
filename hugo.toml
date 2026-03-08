@@ -28,3 +28,7 @@ min = '0.146.0'
 
 [outputs]
   home = ['html', 'atom']
+
+[markup]
+  [markup.highlight]
+    style = 'monokailight'
