@@ -22,7 +22,7 @@
     {{ with .Site.Params.Author.name -}}
         <author>
             <name>{{ . }}</name>
-            {{ with site.Author.email }}
+            {{ with site.Params.Author.email }}
                 <email>{{ . }}</email>
             {{ end -}}
         </author>
