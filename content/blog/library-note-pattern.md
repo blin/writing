@@ -9,11 +9,11 @@ and then refer to that comment from other places.
 
 Turns out there is now a language-independent tool that helps
 to use this pattern -
-[`tagref`](https://github.com/stepchowfun/tagref)!
+[tagref](https://github.com/stepchowfun/tagref)!
 
 <!--more-->
 
-`tagref` claims to be inspired by the Glasgow Haskell Compiler (GHC),
+tagref claims to be inspired by the Glasgow Haskell Compiler (GHC),
 and specifically by their "Notes" system
 described in
 [The Architecture of Open Source Applications](https://aosabook.org/en/)
